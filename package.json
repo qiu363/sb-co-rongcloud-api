@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nick-ma/co-rongcloud-api.git"
+    "url": "git@github.com:qiu363/sb-co-rongcloud-api.git"
   },
   "keywords": [
     "rongcloud",
